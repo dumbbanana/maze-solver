@@ -6,8 +6,12 @@ The bot analyses the path in Dry run and goes through the maze from starting poi
 
 <br>
 
-<center><img src="./assets/example.png" alt="example1" width="400" ></center>
+<p style="text-align: center;">
+<img src="./assets/example.png" alt="example1" width="400"/>
+</p>
 
 <br>
 
-<center><img src="./assets/example2.png" alt="example2" width="400"></center>
+<p style="text-align: center;">
+<img src="./assets/example2.png" alt="example2" width="400"/>
+</p>
